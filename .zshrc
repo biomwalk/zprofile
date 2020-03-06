@@ -1,6 +1,3 @@
-# antigen: package manager for cool bash shit
-plugins=(zsh-autosuggestions)
-
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -65,7 +62,7 @@ ZSH_THEME="amuse"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(	
+plugins=(
 git
 zsh-syntax-highlighting
 zsh-autosuggestions
